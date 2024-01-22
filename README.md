@@ -1,0 +1,7 @@
+- Hi, I’m @rnegrete01
+- I’m interested in programming 
+- I’m currently learning Java!
+- I’m looking to collaborate on coding languages
+- Reach me @rafaelnegretefonseca123@gmail.com!
+- Pronouns: he/him
+- Fun fact: I'm bilingual! I can speak Spanish and English.
