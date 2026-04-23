@@ -1,6 +1,7 @@
-<em><h1 align="center"> Hi there! I am Rafael Negrete Fonseca😊</em>
+<em><h1 align="center"> Hi there! I'm Raf!😊</em>
 
-<!--
+<H1> A little about me...</H1>
+<P><em>I am a software developer from <a href="http://www.wsc.edu"> !</em></P>
 
 Here are some ideas to get you started:
 
