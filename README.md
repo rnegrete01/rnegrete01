@@ -8,6 +8,9 @@ I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying t
 
 <h3>📚My stronger skills are...</h3>
 <p align="left"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> </p>
+
+<h3>🤩I also really enjoy...</h3>
+<p> <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" /></p>
 <ul>
   <li>Networking</li>
   <li>Infrastructures</li>
@@ -15,8 +18,6 @@ I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying t
   <li>Operating Systems</li>
 </ul>
 
-<h3>🤩I also really enjoy...</h3>
-<p> <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" /></p>
 
 <p>With those skills, I created many GitHub repositories. All of them unique and each proving how much i've grown over the years. Each assingment that I created in my programming classes was pushed here to GitHub. This makes GitHub my own library that I can comeback to when I need to refresh my mind on concepts I learned in class.
 
