@@ -20,8 +20,8 @@ I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying t
 
 
 <h2>GitHub Stats</h2>
-![rnegrete01's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
 
-  ![Snake animation](https://github.com/rnegrete01/rnegrete01/blob/output/github-contribution-grid-snake.svg)</p>
+![Raf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnegrete01&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnegrete01&layout=compact&theme=radical)
+![Snake animation](https://github.com/rnegrete01/rnegrete01/blob/output/github-contribution-grid-snake.svg)</p>
 
