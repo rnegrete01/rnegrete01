@@ -1,7 +1,7 @@
 <em><h1 align="center"> Hi there!👋🏻 I'm Raf!😊</em>
 
 <h2> 🙋🏻A little about me...</h2>
-<img align='right' src="pictures/selfie_at_the_center.jpg" width="300" height="300">
+<img align='right' src="pictures/selfie_at_the_center.jpg" width="400" height="400">
 <P>I am Rafael Negrete Fonseca, a student from <a href="http://www.wsc.edu"> Wayne State College!</a> I am studying Computer Information Systems
 and Computer Science💻! Graduation is expected December 2026, so I will have my bachelor's degree soon🧑🏻‍🎓. 
 I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying to become successful primarily for my family🙂.</P>
