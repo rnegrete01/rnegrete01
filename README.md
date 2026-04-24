@@ -6,7 +6,7 @@
 and Computer Science💻! Graduation is expected December 2026, so I will have my bachelor's degree soon🧑🏻‍🎓. 
 I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying to become successful primarily for my family🙂.</P>
 
-<h2>📚My stronger skills are...</h2>
+<h3>📚My stronger skills are...</h3>
 <p align="left"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> </p>
 
 <p>With those skills, I created many GitHub repositories. All of them unique and each proving how much i've grown over the years. Each assingment that I created in my programming classes was pushed here to GitHub. This makes GitHub my own library that I can comeback to when I need to refresh my mind on concepts I learned in class.
