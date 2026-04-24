@@ -11,6 +11,14 @@ I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying t
 
 <p>With those skills, I created many GitHub repositories. All of them unique and each proving how much i've grown over the years. Each assingment that I created in my programming classes was pushed here to GitHub. This makes GitHub my own library that I can comeback to when I need to refresh my mind on concepts I learned in class.
 
+
+
+
+
+
+
+
+
 <h2>GitHub Stats</h2>
 ![rnegrete01's GitHub stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
