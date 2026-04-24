@@ -11,6 +11,11 @@ I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying t
 
 <p>With those skills, I created many GitHub repositories. All of them unique and each proving how much i've grown over the years. Each assingment that I created in my programming classes was pushed here to GitHub. This makes GitHub my own library that I can comeback to when I need to refresh my mind on concepts I learned in class.
 
+
+
+
+
+
 <h2>🔢GitHub Stats</h2>
 
 ![Raf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnegrete01&show_icons=true&theme=radical&rank_icon=github)
