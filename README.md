@@ -1,8 +1,8 @@
 <em><h1 align="center"> Hi there! I'm Raf!😊</em>
 
 <H3> A little about me...</H3>
-<img align='right' src="pictures/selfie_at_the_center.jpg" width="200" height="200">
-<P><em>I am a student from <a href="http://www.wsc.edu"> Wayne State College! I majored in Computer Information Systems
+<img align='right' src="pictures/selfie_at_the_center.jpg" width="400" height="400">
+<P><em>I am a student from <a href="http://www.wsc.edu"> Wayne State College!</a> I majored in Computer Information Systems
 and minored in Computer Science💻! I am originally from Mexico but I was raised in Norfolk, Nebraksa. I am trying to become
 successful primarily for my family. </em></P>
 
