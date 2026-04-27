@@ -11,7 +11,7 @@ and Computer Science💻! Graduation is expected on December 2026. I am working 
 <p> <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"/></p>
 <h3>Concepts that I enjoy:</h3>
 <ul>
-  <li>Networkingli>
+  <li>Networking<li>
   <li>Infrastructures</li>
   <li>Computer Organization and Electronics</li>
   <li>Operating Systems</li>
@@ -19,8 +19,7 @@ and Computer Science💻! Graduation is expected on December 2026. I am working 
 </ul>
 
 <h2>Results and Relfections</h2>
-<p>I believe I have barely begun to understand everything I learned at WSC. Regardless of my naiveness, I believe that I have enough knowledge to keep growing at a 
-rapid rate. I am seeking mentorship, and I have a plan of where I will go next. In any case, I am confident that I will become a software engineer.</p>
+<p>I believe I have barely begun to understand everything I learned at WSC. Regardless of my naiveness, I believe that I have enough knowledge to keep growing at a rapid rate. I am seeking mentorship, and I have a plan of where I will go next. In any case, I am confident that I will become a software engineer.</p>
 
 <h2>🔢GitHub Stats</h2>
 
