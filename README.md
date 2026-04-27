@@ -1,4 +1,4 @@
-<em><h1 align="center"> Hi there!👋🏻 I'm Raf!😊</em>
+<em><h1 align="center"> Hi there! I'm Raf!</em>
 
 <h2> 🙋🏻A little about me...</h2>
 <P>I am Rafael Negrete Fonseca, a student from <a href="http://www.wsc.edu"> Wayne State College!</a> I am studying Computer Information Systems
