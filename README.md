@@ -19,7 +19,7 @@ and Computer Science💻! Graduation is expected on December 2026. I am working 
 </ul>
 
 <h3>Here is a list of my repositories:</h3>
-<P><a href="[http://www.wsc.edu](https://github.com/rnegrete01/rnegrete01/blob/main/gateway.md)">Click here!</a>
+<P><a href="https://github.com/rnegrete01/rnegrete01/blob/main/gateway.md">Click here!</a>
 
 <h2>Results and Relfections</h2>
 <p>I believe I have barely begun to understand everything I learned at WSC. Regardless of my naiveness, I believe that I have enough knowledge to keep growing at a rapid rate. I am seeking mentorship, and I have a plan of where I will go next. In any case, I am confident that I will become a software engineer.</p>
