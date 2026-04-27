@@ -19,7 +19,7 @@ and Computer Science💻! Graduation is expected on December 2026. I am working 
 </ul>
 
 <h3>Here is a list of my repositories:</h3>
-<P><img width="450" height="375" alt="ClickGIF" src="https://github.com/user-attachments/assets/5ce5462b-66a0-4081-9040-13447957141d" />
+<P><img width="250" height="175" alt="ClickGIF" src="https://github.com/user-attachments/assets/5ce5462b-66a0-4081-9040-13447957141d" />
 </P>
 
 <h2>Results and Relfections</h2>
