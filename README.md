@@ -1,6 +1,6 @@
 <h1 align="left"> Hi! I'm Rafael!
 
-<h2> 🙋🏻Rafael Negrete Fonseca</h2>
+<h3> 🙋🏻Rafael Negrete Fonseca</h3>
 <P>I am Rafael Negrete Fonseca, a student from <a href="http://www.wsc.edu"> Wayne State College</a>, studying Computer Information Systems
 and Computer Science💻! Graduation is expected on December 2026. I am working on honing my skills, improving my weaknesses, and learning the IT industry culture to become more competitive. I research, study, and build on what I have learned on my own time. I am passionate about the logical thinking of programming, and I will become an experienced Software Developer. Some languages I like working with are Python, Java, JavaScript, and C++.  </P>
 
