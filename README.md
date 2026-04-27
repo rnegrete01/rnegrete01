@@ -1,8 +1,8 @@
-<em><h1 align="center"> Hi there! I'm Raf!</em>
+<h1 align="left"> Hi! I'm Rafael!
 
-<h2> 🙋🏻A little about me...</h2>
-<P>I am Rafael Negrete Fonseca, a student from <a href="http://www.wsc.edu"> Wayne State College!</a> I am studying Computer Information Systems
-and Computer Science💻! Graduation is expected December 2026, so I will have my bachelor's degree soon🧑🏻‍🎓. I am working on honing my skills and improving my weaknesses to become more competitive. I research, study, and build on what I have learned on my own time. </P>
+<h2> 🙋🏻Rafael Negrete Fonseca</h2>
+<P>I am Rafael Negrete Fonseca, a student from <a href="http://www.wsc.edu"> Wayne State College</a>, studying Computer Information Systems
+and Computer Science💻! Graduation is expected on December 2026. I am working on honing my skills, improving my weaknesses, and learning the IT industry culture to become more competitive. I research, study, and build on what I have learned on my own time. I am passionate about the logical thinking of programming, and I will become an experienced Software Developer. Some languages I like working with are Python, Java, JavaScript, and C++.  </P>
 
 <h3>💪🏻My Strongest Skills</h3>
 <p align="left"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> </p>
