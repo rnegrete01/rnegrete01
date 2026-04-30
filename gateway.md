@@ -40,23 +40,14 @@
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/college_database_v4">link</a>
 
-### College v1
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
-* **Project status:** ✅Complete
-* **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
-
 ### Create a Story
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Short summary:** A program that takes one word at a time to create a story
+* **Technologies used:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+* **Key concepts learned:** User input (In python), arrays.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/Create_a_story">link</a>
 
 ### Data Visualization
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
