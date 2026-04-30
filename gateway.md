@@ -20,36 +20,88 @@
 
 ---
 
-## 📂 Project Details
+## 📂 My roject Details
 
 ### Basketball Scoreboard
-* **Description:** A Java-based application to track scores and game statistics.
-* **Key Learnings:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### College Database v4
-* **Description:** An advanced relational database schema optimizing student records.
-* **Key Learnings:** Normalization, complex joins, and indexing.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### College v1
-* **Description:** Initial database architecture for academic management.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### Create a Story
-* **Description:** An interactive Python script using logic trees to build a narrative.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### Data Visualization
-* **Description:** Transforming raw data into insights using Python libraries.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### FAQs
-* **Description:** A dynamic FAQ component built with vanilla JavaScript.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### JS Hot/Cold Game
-* **Description:** An interactive logic game focusing on event listeners and DOM manipulation.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### JS Grocery Receipt
-* **Description:** A utility tool to calculate totals and tax from user input.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ### Movie List
-* **Description:** A web application to search, filter, and organize movie titles.
+* **Short summary:** A Java-based application to track scores and game statistics.
+* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Key concepts learned:** A Java-based application to track scores and game statistics.
+* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Project link:** A Java-based application to track scores and game statistics.
 
 ---
 
