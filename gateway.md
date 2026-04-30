@@ -1,6 +1,6 @@
 # 🚀 Developer Portfolio: Gateway
 
-> Welcome to my project hub! This repository serves as a central index for my academic and personal work. Below, you'll find a curated list of my projects, categorized by the technologies used and the courses they were developed for.
+> Hi! And welcome to my Developer Portfolio! This is the place you want to come to when you are looking for my work! Down below, I have listen the title of my repositories, the technology I used to create them, and which class I created it for! I hope this is a useful tool! Thanks!
 
 ---
 
