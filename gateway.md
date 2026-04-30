@@ -5,7 +5,7 @@
  I hope this is a useful tool! Thanks!*
 
 # Tables of Contents
-Repository    | Primary Tech  | Category
-------------- | ------------- | ------------- 
-
+Repository             | Primary Tech           | Category
+---------------------- | ---------------------- | ---------------------- 
+basketball_scoreboard  | Java                   | CSC160 Programming Fundamentals II
 
