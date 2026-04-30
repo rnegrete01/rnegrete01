@@ -24,7 +24,7 @@
 
 ### Basketball Scoreboard
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> 
 * **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
@@ -32,76 +32,76 @@
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### College Database v4
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simulation of a real world college database!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### College v1
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### Create a Story
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### Data Visualization
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### FAQs
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### JS Hot/Cold Game
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### JS Grocery Receipt
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ### Movie List
-* **Short summary:** A Java-based application to track scores and game statistics.
-* **Technologies used:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Key concepts learned:** A Java-based application to track scores and game statistics.
-* **Project status:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Course or self project:** A Java-based application to track scores and game statistics.
+* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** A Java-based application to track scores and game statistics.
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
 
 ---
 
