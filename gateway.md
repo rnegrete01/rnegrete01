@@ -33,12 +33,12 @@
 
 ### College Database v4
 * **Short summary:** A simulation of a real world college database!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Technologies used:** <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+* **Key concepts learned:** Tables and Descriptions, Triggers, Events, EER Diagrams, Functions, Procedures, & Views!
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/college_database_v4">link</a>
 
 ### College v1
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
