@@ -69,17 +69,18 @@
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/faqs">link</a>
 
 ### JS Hot/Cold Game
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Short summary:** This program generates a random number that the user must guess. The text on the screen
+* changes depending on how far or close the user is to the number. This program also projects the user's guess history.
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+* **Key concepts learned:** Arrow functions, how to update a best score.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game">link</a>
 
 ### JS Grocery Receipt
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 * **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
@@ -88,7 +89,7 @@
 
 ### Movie List
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 * **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
