@@ -50,22 +50,23 @@
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/Create_a_story">link</a>
 
 ### Data Visualization
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Short summary:** Plot data on graphs using matplotlib!
+* **Technologies used:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+* **Key concepts learned:** Matplotlib, GUI
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/Data_visualization">link</a>
 
 ### FAQs
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=java"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Short summary:** Frequently asked questions about a smartwatch. This program displays information about the smartwatch.
+* and it changes pictures depending on the faq selected.
+* **Technologies used:** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+* **Key concepts learned:** Learned how to store h2 elements inside an h2 array. How to use toggle function.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/faqs">link</a>
 
 ### JS Hot/Cold Game
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
