@@ -20,7 +20,7 @@
 
 ---
 
-## 📂 My roject Details
+## 📂 My Project Details
 
 ### Basketball Scoreboard
 * **Short summary:** A simple program that simmualates a basketball scoreboard!
