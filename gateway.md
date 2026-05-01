@@ -61,7 +61,7 @@
 ### FAQs
 * **Short summary:** Frequently asked questions about a smartwatch. This program displays information about the smartwatch.
 * and it changes pictures depending on the faq selected.
-* **Technologies used:** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 * **Key concepts learned:** Learned how to store h2 elements inside an h2 array. How to use toggle function.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
