@@ -79,25 +79,22 @@
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game">link</a>
 
 ### JS Grocery Receipt
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Short summary:** A simple program that acts as a self-checkout register. It has many required fields for the user to fill. The result is an alert that displays a receipt.
 * **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Key concepts learned:** How to use alerts, how to use event handlers, how to use listeners
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>
 
 ### Movie List
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
+* **Short summary:** A program that simulates a personal list of movies. The user can enter the movie's title, genre, and rating. It sorts
+* the user's movies alphabetically. If the user wishes to remove a movie, they can select one and remove it. Otherwise, they can clear their list entirely. The list stores itself in local storage.
 * **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+* **Key concepts learned:** How to create a class in JS, how to create functions, how to save and load data from local storage.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>
 
 ---
-
-## 📫 Let's Connect
-* **GitHub:** [Your Profile Link Here]
-* **LinkedIn:** [Your Profile Link Here]
