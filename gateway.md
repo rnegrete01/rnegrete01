@@ -25,7 +25,7 @@
 * **Key concepts learned:** Learned how to manipulate strings and arrays. Learned how to make switches.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** <img src="pictures/flashcards.png" align="right"/>
+* **Thumbnail screenshot:** <img src="pictures/flashcards.png" height="400" width="400" align="right"/>
 * **Project link:** Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>
 
 ### FAQs
