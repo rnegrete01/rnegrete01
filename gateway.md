@@ -26,7 +26,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/flashcards.png"/>
-> *Project link: Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>*
+> *Project link: Here is the <a href="https://github.com/Pirategirl9000/Flashcards" height="400" width="400">link</a>*
 
 ---
 
@@ -38,7 +38,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/faqs.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="200" width="200">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="400" width="400">link</a>*
 
 ---
 
@@ -50,7 +50,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/hot_cold_game.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="200" width="200">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="400" width="400">link</a>*
 
 ---
 
@@ -61,7 +61,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/img_grocery_receipt_input.png">
-> *Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt" height="400" width="400">link</a>*
 
 ---
 
@@ -73,6 +73,6 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/movie_list.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/movie_list" height="400" width="400">link</a>*
 
 ---
