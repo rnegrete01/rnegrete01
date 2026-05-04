@@ -28,6 +28,8 @@
 <img src="pictures/flashcards.png"/>
 > *Project link: Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>*
 
+```
+
 ### FAQs
 * **Short summary:** Frequently asked questions about a smartwatch. This program displays information about the smartwatch.
 * and it changes pictures depending on the faq selected.
@@ -37,6 +39,8 @@
 * **Course or self project:** Course project
 <img src="pictures/faqs.png"/>
 > *Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="200" width="200">link</a>*
+
+```
 
 ### JS Hot/Cold Game
 * **Short summary:** This program generates a random number that the user must guess. The text on the screen
@@ -48,6 +52,8 @@
 <img src="pictures/hot_cold_game.png"/>
 > *Project link: Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="200" width="200">link</a>*
 
+```
+
 ### JS Grocery Receipt
 * **Short summary:** A simple program that acts as a self-checkout register. It has many required fields for the user to fill. The result is an alert that displays a receipt.
 * **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
@@ -56,6 +62,8 @@
 * **Course or self project:** Course project
 <img src="pictures/img_grocery_receipt_input.png" height="200" width="200"/>
 > *Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>*
+
+```
 
 ### Movie List
 * **Short summary:** A program that simulates a personal list of movies. The user can enter the movie's title, genre, and rating. It sorts
