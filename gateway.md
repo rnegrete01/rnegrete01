@@ -26,7 +26,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/flashcards.png"/>
-> *Project link:** Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>*
+> *Project link: Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>*
 
 ### FAQs
 * **Short summary:** Frequently asked questions about a smartwatch. This program displays information about the smartwatch.
@@ -46,7 +46,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/hot_cold_game.png"/>
-> *Project link:** Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="200" width="200">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="200" width="200">link</a>*
 
 ### JS Grocery Receipt
 * **Short summary:** A simple program that acts as a self-checkout register. It has many required fields for the user to fill. The result is an alert that displays a receipt.
@@ -55,7 +55,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/img_grocery_receipt_input.png" height="200" width="200"/>
-> *Project link:** Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>*
 
 ### Movie List
 * **Short summary:** A program that simulates a personal list of movies. The user can enter the movie's title, genre, and rating. It sorts
@@ -65,6 +65,6 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/movie_list.png" height="200" width="200"/>
-> *Project link:** Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>*
 
 ---
