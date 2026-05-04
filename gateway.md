@@ -60,7 +60,7 @@
 * **Key concepts learned:** How to use alerts, how to use event handlers, how to use listeners
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-<img src="pictures/img_grocery_receipt_input.png" height="200" width="200"/>
+<img src="pictures/img_grocery_receipt_input.png">
 > *Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>*
 
 ---
@@ -72,7 +72,7 @@
 * **Key concepts learned:** How to create a class in JS, how to create functions, how to save and load data from local storage.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-<img src="pictures/movie_list.png" height="200" width="200"/>
+<img src="pictures/movie_list.png"/>
 > *Project link: Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>*
 
 ---
