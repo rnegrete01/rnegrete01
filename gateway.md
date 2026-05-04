@@ -25,7 +25,7 @@
 * **Key concepts learned:** Learned how to manipulate strings and arrays. Learned how to make switches.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Thumbnail screenshot:** <img src="pictures/flashcards.png"/>
 * **Project link:** Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>
 
 ### FAQs
@@ -35,7 +35,7 @@
 * **Key concepts learned:** Learned how to store h2 elements inside an h2 array. How to use toggle function.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Thumbnail screenshot:** <img src="pictures/faqs.png"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/faqs">link</a>
 
 ### JS Hot/Cold Game
@@ -45,7 +45,7 @@
 * **Key concepts learned:** Arrow functions, how to update a best score.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Thumbnail screenshot:** <img src="pictures/hot_cold_game.png"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game">link</a>
 
 ### JS Grocery Receipt
@@ -54,7 +54,7 @@
 * **Key concepts learned:** How to use alerts, how to use event handlers, how to use listeners
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Thumbnail screenshot:** <img src="pictures/img_grocery_receipt_input.png"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>
 
 ### Movie List
@@ -64,7 +64,7 @@
 * **Key concepts learned:** How to create a class in JS, how to create functions, how to save and load data from local storage.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
+* **Thumbnail screenshot:** <img src="pictures/movie_list.png"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>
 
 ---
