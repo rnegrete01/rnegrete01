@@ -25,7 +25,7 @@
 * **Key concepts learned:** Learned how to manipulate strings and arrays. Learned how to make switches.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** <img src="pictures/flashcards.png"/>
+* **Thumbnail screenshot:** <img src="pictures/flashcards.png" height="200" width="200"/>
 * **Project link:** Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>
 
 ### FAQs
@@ -36,7 +36,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** <img src="pictures/faqs.png"/>
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/faqs">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/faqs" height="200" width="200">link</a>
 
 ### JS Hot/Cold Game
 * **Short summary:** This program generates a random number that the user must guess. The text on the screen
@@ -46,7 +46,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** <img src="pictures/hot_cold_game.png"/>
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game">link</a>
+* **Project link:** Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="200" width="200">link</a>
 
 ### JS Grocery Receipt
 * **Short summary:** A simple program that acts as a self-checkout register. It has many required fields for the user to fill. The result is an alert that displays a receipt.
@@ -54,7 +54,7 @@
 * **Key concepts learned:** How to use alerts, how to use event handlers, how to use listeners
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** <img src="pictures/img_grocery_receipt_input.png"/>
+* **Thumbnail screenshot:** <img src="pictures/img_grocery_receipt_input.png" height="200" width="200"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt">link</a>
 
 ### Movie List
@@ -64,7 +64,7 @@
 * **Key concepts learned:** How to create a class in JS, how to create functions, how to save and load data from local storage.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **Thumbnail screenshot:** <img src="pictures/movie_list.png"/>
+* **Thumbnail screenshot:** <img src="pictures/movie_list.png" height="200" width="200"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/movie_list">link</a>
 
 ---
