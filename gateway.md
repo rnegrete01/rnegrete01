@@ -25,7 +25,7 @@
 * **Key concepts learned:** Learned how to manipulate strings and arrays. Learned how to make switches.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **<img src="pictures/flashcards.png" height="400" width="400" align="center"/>
+<img src="pictures/flashcards.png" height="400" width="400"/>
 * **Project link:** Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>
 
 ### FAQs
@@ -35,7 +35,7 @@
 * **Key concepts learned:** Learned how to store h2 elements inside an h2 array. How to use toggle function.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-* **<img src="pictures/faqs.png"/>
+<img src="pictures/faqs.png"/>
 * **Project link:** Here is the <a href="https://github.com/rnegrete01/faqs" height="200" width="200">link</a>
 
 ### JS Hot/Cold Game
