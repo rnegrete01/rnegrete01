@@ -8,11 +8,7 @@
 
 | Repository | Primary Tech | Category |
 | :--- | :--- | :--- |
-| 🏀 [Basketball Scoreboard](#basketball-scoreboard) | **Java** | CSC160: Programming Fundamentals II |
-| 🗄️ [College Database v4](#college-database-v4) | **MySQL** | CIS466: Advanced Database |
-| 🎓 [College v1](#college-v1) | **MySQL** | CIS466: Advanced Database |
-| 📖 [Create a Story](#create-a-story) | **Python** | CSC310: Data Structures |
-| 📊 [Data Visualization](#data-visualization) | **Python** | CSC310: Data Structures |
+| ♦️ [Flashcards](#flashcards) | **JavaScript** | CSC465: Advanced Web Development |
 | ❓ [FAQs](#faqs) | **JavaScript** | CSC465: Advanced Web Development |
 | 🌡️ [JS Hot/Cold Game](#js-hot-cold-game) | **JavaScript** | CSC465: Advanced Web Development |
 | 🧾 [JS Grocery Receipt](#js-grocery-receipt) | **JavaScript** | CSC465: Advanced Web Development |
@@ -22,41 +18,15 @@
 
 ## 📂 My Project Details
 
-### Basketball Scoreboard
-* **Short summary:** A simple program that simmualates a basketball scoreboard!
-* **Technologies used:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> 
-* **Key concepts learned:** Object Oriented Programming (OOP), Graphical User Interface (GUI).
+### Flashcards
+* **Short summary:** Flashcards that can be used to study! Create flashcards or remove them! You also have
+* different options you can select like list flashcards or clear flashcards.
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+* **Key concepts learned:** Learned how to manipulate strings and arrays. Learned how to make switches.
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 * **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/basketball_scoreboard">link</a>
-
-### College Database v4
-* **Short summary:** A simulation of a real world college database!
-* **Technologies used:** <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
-* **Key concepts learned:** Tables and Descriptions, Triggers, Events, EER Diagrams, Functions, Procedures, & Views!
-* **Project status:** ✅Complete
-* **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/college_database_v4">link</a>
-
-### Create a Story
-* **Short summary:** A program that takes one word at a time to create a story
-* **Technologies used:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-* **Key concepts learned:** User input (In python), arrays.
-* **Project status:** ✅Complete
-* **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/Create_a_story">link</a>
-
-### Data Visualization
-* **Short summary:** Plot data on graphs using matplotlib!
-* **Technologies used:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-* **Key concepts learned:** Matplotlib, GUI
-* **Project status:** ✅Complete
-* **Course or self project:** Course project
-* **Thumbnail screenshot:** Object-Oriented Programming (OOP) and GUI implementation.
-* **Project link:** Here is the <a href="https://github.com/rnegrete01/Data_visualization">link</a>
+* **Project link:** Here is the <a href="https://github.com/Pirategirl9000/Flashcards">link</a>
 
 ### FAQs
 * **Short summary:** Frequently asked questions about a smartwatch. This program displays information about the smartwatch.
