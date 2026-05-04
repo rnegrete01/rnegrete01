@@ -36,7 +36,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/faqs.png"/>
-> *Project link:** Here is the <a href="https://github.com/rnegrete01/faqs" height="200" width="200">link</a>*
+> *Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="200" width="200">link</a>*
 
 ### JS Hot/Cold Game
 * **Short summary:** This program generates a random number that the user must guess. The text on the screen
