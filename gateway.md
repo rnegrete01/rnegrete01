@@ -76,3 +76,25 @@
 > *Project link: Here is the <a href="https://github.com/rnegrete01/movie_list" height="400" width="400">link</a>*
 
 ---
+
+### Node Dragon Ball Z
+* **Short summary:** A program that uses an API to get information from a different website and diplay it! Users are able to learn about the
+* anime "Dragon Ball Z"!
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+* **Key concepts learned:** How to use Node js, how to use API.
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
+<img src="pictures/node_dbz_gohan.png"/>
+> *Project link: Here is the <a href="https://github.com/rnegrete01/node_dragon_ball_z" height="400" width="400">link</a>*
+
+---
+
+### Retirement Countdown
+* **Short summary:** This program simulates a future value by taking together input fields and calculating outcomes. The results display
+* in real time, and change every second to look further into the future.
+* **Technologies used:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+* **Key concepts learned:** Learned how to manipulate date objects and how to validate it!
+* **Project status:** ✅Complete
+* **Course or self project:** Course project
+<img src="pictures/node_dbz_gohan.png"/>
+> *Project link: Here is the <a href="https://github.com/rnegrete01/retirement_countdown" height="400" width="400">link</a>*
