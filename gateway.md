@@ -13,6 +13,8 @@
 | 🌡️ [JS Hot/Cold Game](#js-hot-cold-game) | **JavaScript** | CSC465: Advanced Web Development |
 | 🧾 [JS Grocery Receipt](#js-grocery-receipt) | **JavaScript** | CSC465: Advanced Web Development |
 | 🎬 [Movie List](#movie-list) | **JavaScript** | CSC465: Advanced Web Development |
+| 🐲 [Node Dragon Ball Z](#node-dragon-ball-z) | **JavaScript** | CSC465: Advanced Web Development |
+| ⏱️ [Retirement Countdown](#retirement-countdown) | **JavaScript** | CSC465: Advanced Web Development |
 
 ---
 
