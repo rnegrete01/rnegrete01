@@ -28,7 +28,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/flashcards.png"/>
-> *Project link: Here is the <a href="https://github.com/Pirategirl9000/Flashcards" height="400" width="400">link</a>*
+> *Project link:* Here is the <a href="https://github.com/Pirategirl9000/Flashcards" height="400" width="400">link</a>
 
 ---
 
