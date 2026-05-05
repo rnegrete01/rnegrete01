@@ -40,6 +40,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/faqs.png"/>
+
 > *Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="400" width="400">link</a>*
 
 ---
