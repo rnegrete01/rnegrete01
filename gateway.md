@@ -28,7 +28,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/flashcards.png"/>
-> *Project link:* Here is the <a href="https://github.com/Pirategirl9000/Flashcards" height="400" width="400">link</a>
+Project link: Here is the <a href="https://github.com/Pirategirl9000/Flashcards" height="400" width="400">link</a>
 
 ---
 
@@ -41,7 +41,7 @@
 * **Course or self project:** Course project
 <img src="pictures/faqs.png"/>
 
-> *Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="400" width="400">link</a>*
+Project link: Here is the <a href="https://github.com/rnegrete01/faqs" height="400" width="400">link</a>
 
 ---
 
@@ -53,7 +53,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/hot_cold_game.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="400" width="400">link</a>*
+Project link: Here is the <a href="https://github.com/rnegrete01/js_hot_cold_game" height="400" width="400">link</a>
 
 ---
 
@@ -64,7 +64,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/img_grocery_receipt_input.png">
-> *Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt" height="400" width="400">link</a>*
+Project link: Here is the <a href="https://github.com/rnegrete01/js_grocery_receipt" height="400" width="400">link</a>
 
 ---
 
@@ -76,7 +76,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/movie_list.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/movie_list" height="400" width="400">link</a>*
+Project link: Here is the <a href="https://github.com/rnegrete01/movie_list" height="400" width="400">link</a>
 
 ---
 
@@ -88,7 +88,7 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/node_dbz_gohan.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/node_dragon_ball_z" height="400" width="400">link</a>*
+Project link: Here is the <a href="https://github.com/rnegrete01/node_dragon_ball_z" height="400" width="400">link</a>
 
 ---
 
@@ -100,4 +100,4 @@
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
 <img src="pictures/retirement_countdown.png"/>
-> *Project link: Here is the <a href="https://github.com/rnegrete01/retirement_countdown" height="400" width="400">link</a>*
+Project link: Here is the <a href="https://github.com/rnegrete01/retirement_countdown" height="400" width="400">link</a>
