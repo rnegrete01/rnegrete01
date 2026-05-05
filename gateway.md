@@ -96,5 +96,5 @@
 * **Key concepts learned:** Learned how to manipulate date objects and how to validate it!
 * **Project status:** ✅Complete
 * **Course or self project:** Course project
-<img src="pictures/node_dbz_gohan.png"/>
+<img src="pictures/retirement_countdown.png"/>
 > *Project link: Here is the <a href="https://github.com/rnegrete01/retirement_countdown" height="400" width="400">link</a>*
